@@ -1,6 +1,7 @@
 # Ayanda Langelihle Mahlambi
 
 Diploma in ICT: Application Development & User Support
+
 Based in South Africa | Open to Relocation
 
 ## About Me
